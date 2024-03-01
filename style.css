@@ -1,0 +1,38 @@
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 20px;
+    color:blue;
+}
+
+#sketch_to_be_drawn{
+color: red;
+font-size: 30px;;
+}
+
+#score{
+    font-size:25px;
+    color:blue;
+}
+
+#your_sketch{
+    font-size:25px;
+    color: darkblue;
+}
+
+#confidence{
+    font-size:25px;
+    color: darkblue;
+}
+
+body{
+    background-color: lightskyblue;
+}
+
+#show_sketch{
+    float:right;
+}
+
+h1{
+    background-color: aliceblue;
+}
